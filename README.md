@@ -2,7 +2,10 @@
 
 > Prompts quicker is ALL you 🍌 need
 
-一个 Chrome 扩展,让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词。
+**被各种 Banana 案例刷屏的你还在焦虑？**
+**还在各种 Awesome Repo，各大论坛，二手自媒体文章里搬运复制提示词？**
+
+一个 Chrome 扩展，让你在 Google AI Studio 和 Gemini 官网快速插入热门提示词
 
 ## ✨ 功能特性
 
