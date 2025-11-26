@@ -1,110 +1,48 @@
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/intro.png?raw=true" width="800">
+<img src="https://github.com/morsoli/awesome-banana-prompt/blob/main/images/intro.webp?raw=true" width="800">
 
-## 📸 预览
+## 预览
 
-在线网站：https://glidea.github.io/banana-prompt-quicker
+在线体验地址：
+[https://nanobanana.liduos.com](https://nanobanana.liduos.com/)
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/modal.png?raw=true" width="600">
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/input.png?raw=true" width="300">
-
-## 🚀 安装
-
-### Chrome Web Store 安装
-
-https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifbolifedlokjkknigoid?authuser=0&hl=zh-CN
+## 🚀 安装指南
 
 ### 手动安装
 
-1. 下载或 Clone 仓库
+1. **下载或 Clone 本仓库**
+2. **在 Chrome 加载扩展**
 
-2. 在 Chrome 中加载扩展
-   - 打开 Chrome 浏览器,访问 `chrome://extensions/`
-   - 开启右上角的「开发者模式」
-   - 点击「加载已解压的扩展程序」
-   - 选择项目根目录下的 extension 文件夹
+   * 打开浏览器并访问 `chrome://extensions/`
+   * 开启右上角的 **开发者模式**
+   * 点击 **加载已解压的扩展程序**
+   * 选择仓库根目录下的 `extension` 文件夹
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/install.png?raw=true" width="300">
+    <img src="https://github.com/morsoli/awesome-banana-prompt/blob/main/images/install.png?raw=true" width="300">
 
-3. 访问 [Google AI Studio](https://aistudio.google.com/) 或 [Gemini](https://gemini.google.com/) 开始使用
-> 或在任意网站任意输入框，右键选择【🍌 Insert Banana Prompts】
+3. 打开 [Google AI Studio](https://aistudio.google.com/) 或 [Gemini](https://gemini.google.com/) 即可开始使用
 
-### 移动端
+   > 你也可以在任意网站的输入框中右键选择 **「🍌 Insert Banana Prompts」** 快速插入提示词。
 
-推荐使用 **Yandex Browser**，直接从 Chrome Web Store 安装即可：
+### PC 端安装
 
-1. 下载并安装 Yandex Browser
-2. 在 Yandex Browser 中访问上面的 Chrome Web Store 链接
-3. 点击「添加至 Chrome」即可安装
+从浏览器插件市场安装：
+[https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifbolifedlokjkknigoid?authuser=0&hl=zh-CN](https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifbolifedlokjkknigoid?authuser=0&hl=zh-CN)
 
-### 油猴版本
-> 注：该版本功能较落后
+### 移动端安装
 
-感谢 bxb100 的贡献 🎉
+推荐使用 **Yandex Browser**，可直接安装 Chrome 扩展：
 
-https://github.com/bxb100/Scripts/raw/refs/heads/main/banana-prompt-quicker/script.user.js
-
-
-## 注意
-
-有留意到 `prompt.json` 第三方网站引用，请做来源注明，本项目也可在 README 中提供外链位置
-
-## TDOO
-
-- [ ] 添加更多提示词。按风格推荐穿搭，虚拟旅游，偶像合照...
-
-## Release NOTE
-
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/v1.3.0-promo.png?raw=true" width="300">
-
-* V1.3.0
-  * 支持在任意网站通过右键菜单进入 Prompt 画廊，插入任意输入框。🍌 Anywhere!
-  * 支持灵光模式，引导完成生图需求（"选择比填空容易"）
-  * Gemini 再次进入保留页面状态
-  * 自定义 Prompt 支持上传图片
-  * 插入提示词后，光标默认在末尾，便于补充需求
-  * 增加随机排序，多一点新鲜感，多一点随手一试
-
-* V1.2.1
-  * 修复 Gemini 官网按钮失效，并支持远程热修复
+1. 安装 Yandex Browser
+2. 在 Yandex 中打开上述 Chrome Web Store 链接
+3. 点击 **「添加至 Chrome」** 即可完成安装
 
 
-## 🤝 贡献提示词
+## 功能特性
 
-直接开 Issue，形式不限，可以直接分享你的创意，或者自媒体案例链接...
-
-但建议包含以下信息
-```json
-{
-  "title": "提示词标题",
-  "preview": "效果预览图片",
-  "prompt": "提示词内容",
-  "author": "作者",
-  "link": "https://来源链接（可选）",
-  "mode": "generate or edit"
-}
-```
-
----
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/glidea/zenfeed/blob/main/docs/images/wechat.png?raw=true" alt="Wechat QR Code" width="300">
-      <br>
-      <strong>AI 学习交流社群</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/glidea.png?raw=true" width="250">
-      <br>
-      <strong><a href="https://glidea.zenfeed.xyz/">我的其它项目</a></strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/readnote.png?raw=true" width="400">
-      <br>
-      <strong><a href="https://www.xiaohongshu.com/user/profile/5f7dc54d0000000001004afb">📕 小红书账号 - 持续分享 AI 原创</a></strong>
-    </td>
-  </tr>
-</table>
+* 支持在任意网站通过右键菜单打开 Prompt 画廊，并插入当前输入框——**🍌 Banana Anywhere！**
+* 新增「灵光模式」：通过选择式引导快速生成生图需求（“选择比填空更容易”）
+* Gemini 再次打开时自动恢复上次页面状态
+* 自定义 Prompt 支持上传图片
+* 插入提示词后自动将光标移动至末尾，方便继续补充需求
+* 新增随机排序，让发现新 Prompt 更有趣、更随手可用
